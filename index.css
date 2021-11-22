@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-background {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: cover;
+}
+
+.page1-top-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.page1-card {
+    background-color: #e6f6ff;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 20px;
+    width: cover;
+    height: 220px;
+}
+
+.page1-card-image {
+    width: cover;
+    height: 220px;
+    margin: 0px;
+}
+
+.page1-card-head {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 18px;
+    padding-top: 13px;
+}
+
+.page1-card-head2 {
+    font-family: "Bree Serif";
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.page1-card-head3 {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.page1-button {
+    height: 40px;
+    width: 100px;
+}
+
+.page1-card-pad {
+    padding: 15px;
+}
+
+.page1-card-pad-button {
+    padding-bottom: 20px;
+}
+
+.page1-bot-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 22px;
+    padding-left: 20px;
+}
+
+.page1-card-heading1 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    padding: 5px;
+}
+
+.page1-card-heading2 {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 5px;
+}
+
+.page1-cards-images {
+    height: 150;
+    width: 90px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+}
+
+.page1-cards-padding {
+    padding: 5px;
+}
+
+.inner-page-image {
+    width: 220px;
+    height: 350px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.inner-page-align {
+    text-align: center;
+}
+
+.inner-page-para {
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    padding: 5px;
+}
+
+.margin-para {
+    margin: 10px;
+}
+
+.margin-button {
+    margin: 5px;
+}
